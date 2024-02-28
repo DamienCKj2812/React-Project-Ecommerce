@@ -1,0 +1,9 @@
+/* @tailwind base;: Lets you include or customize the base styles, which are the styles for standard HTML elements.*/
+@tailwind base;
+
+/* @tailwind components;: Allows you to include or customize styles for your own components. */
+@tailwind components;
+
+
+/* @tailwind utilities;: Lets you include or customize the utility classes, which are small, single-purpose classes that provide specific styling properties. */
+@tailwind utilities;
